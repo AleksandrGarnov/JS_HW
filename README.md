@@ -1,4 +1,5 @@
- ## JS. HW_1
+ <details>
+  <summary>HW_1_JS</summary>
  1. Создать переменную “item_1”
  2. Присвоить переменной item_1 цифру 5.
  3. Вывести в консоль item_1.
@@ -32,3 +33,4 @@
  31. Если age_1 >=  age_2 и age_1 <  age_3, вывести в консоль “Welcome  !”
  32. Если age_1  > age_3, вывести в консоль “Keep calm and look Culture channel”.
  33. Иначе выводите “Technical work”.
+ </details>
